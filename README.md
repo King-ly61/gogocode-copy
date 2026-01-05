@@ -68,8 +68,8 @@ const b = 1;
 ## Support
 
 -   [issues](https://github.com/thx/gogocode/issues)
--   Ding Group：34266233
--   QQ Group：735216094
+-   Ding Group：784333629
+-   QQ Group：784333629
 
 ## License
 
